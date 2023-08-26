@@ -62,9 +62,10 @@ Experienced content creator and web3 developer with a passion for innovation and
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akashpanda122&theme=dark&background=000000)](https://git.io/streak-stats)
+[![akashpanda's GitHub | Stats](https://stats.quine.sh/akashpanda/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akashpanda)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashpanda122&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 akashpanda122/akashpanda122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
